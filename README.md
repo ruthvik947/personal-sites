@@ -225,6 +225,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushi Shah http://www.rshah.io/
 - Rushy Panchal https://panchr.me
+- Ruthvik Peddawandla hhtp://ruthvik.com
 - Ryan Choi http://ryanjchoi.com
 - Ryan D'souza http://dsouzarc.github.io
 - Ryan Lin http://ryanlin.com
